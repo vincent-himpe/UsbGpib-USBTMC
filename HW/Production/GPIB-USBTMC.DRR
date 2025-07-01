@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: GPIB-USBTMC.PcbDoc   7/1/2025  2:55:10 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : GPIB-USBTMC-RoundHoles.TXT
+ASCII SlotHoles File : GPIB-USBTMC-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             58        PTH        179.77mm (7.08inch)
+T2      0.5mm (20mil)                                             Round             16        PTH        14.40mm (0.57inch)
+T3      0.5mm (20mil)                                             Slot              4         PTH        28.70mm (1.13inch)
+T4      1mm (39mil)                                               Round             24        PTH        51.79mm (2.04inch)
+T5      1.1mm (43mil)                                             Round             6         PTH        12.70mm (0.50inch)
+T6      3.3mm (130mil)                                            Round             2         NPTH       46.81mm (1.84inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              110
+
+Total Processing Time (hh:mm:ss) : 00:00:00
