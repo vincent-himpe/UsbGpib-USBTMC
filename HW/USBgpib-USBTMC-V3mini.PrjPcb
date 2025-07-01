@@ -84,23 +84,6 @@ GenerateClassCluster=0
 DocumentUniqueId=KFADQCOG
 
 [Document3]
-DocumentPath=USBgpib-USBTMC-PANELIZED.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=FDSDFKGP
-
-[Document4]
 DocumentPath=USBgpib-USBTMC.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,8 +100,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document5]
-DocumentPath=USBgpib-USBTMC-Panel.OutJob
+[Document4]
+DocumentPath=Assembly Drawing.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -132,7 +115,57 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=AVBFROTC
+
+[Document5]
+DocumentPath=Fabrication Drawing.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IRIWHSPG
+
+[Document6]
+DocumentPath=Cover Drawing.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HERGIXBU
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for USBgpib-USBTMC-V3mini\Design Rule Check - USBgpib-V3-USBTMC.html
+DItemRevisionGUID=
+
+[Parameter1]
+Name=Revision
+Value=3Mini
+
+[Parameter2]
+Name=SCHdrafter
+Value=Vincent Himpe
+
+[Parameter3]
+Name=PCBdrafter
+Value=Vincent HImpe
 
 [Configuration1]
 Name=Sources
