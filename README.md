@@ -1,4 +1,8 @@
 # GPIB-USBTMC Adapter 
+
+![What is this](./pictures/main.png)
+
+
 ## Project Introduction
 
 This project is based on the popular Xyphro USB-GPIB adapter https://github.com/xyphro/UsbGpib 
