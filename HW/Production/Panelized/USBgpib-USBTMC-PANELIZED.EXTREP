@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: USBgpib-USBTMC-PANELIZED.GBR   6/30/2025  6:39:06 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GTL                Top Layer                               
+.G1                 Layer 1                                 
+.G2                 Layer 2                                 
+.GBL                Bottom Layer                            
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM2                Top 3D Body                             
+.GM3                Top Courtyard                           
+.GM4                Bottom Courtyard                        
+.GM6                Bottom Assembly                         
+.GM8                Top Coating                             
+.GM10               Route Tool Path                         
+.GKO                Keep-Out Layer                          
+.GPT                Top Pad Master                          
+.GPB                Bottom Pad Master                       
+.GM                 Profile                                 
+------------------------------------------------------------------------------------------
