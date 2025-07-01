@@ -50,7 +50,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=USBgpib-v3-USBTMC.SchDoc
+DocumentPath=GPIB-USBTMC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -67,7 +67,7 @@ GenerateClassCluster=0
 DocumentUniqueId=QNMMXYKS
 
 [Document2]
-DocumentPath=USBgpib-V3-USBTMC.PcbDoc
+DocumentPath=GPIB-USBTMC.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -84,7 +84,7 @@ GenerateClassCluster=0
 DocumentUniqueId=KFADQCOG
 
 [Document3]
-DocumentPath=USBgpib-USBTMC.OutJob
+DocumentPath=GPIB-USBTMC.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -101,7 +101,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document4]
-DocumentPath=Assembly Drawing.PCBDwf
+DocumentPath=GPIB-USBTMC Assembly Drawing.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -118,7 +118,7 @@ GenerateClassCluster=0
 DocumentUniqueId=AVBFROTC
 
 [Document5]
-DocumentPath=Fabrication Drawing.PCBDwf
+DocumentPath=GPIB-USBTMC Fabrication Drawing.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135,7 +135,7 @@ GenerateClassCluster=0
 DocumentUniqueId=IRIWHSPG
 
 [Document6]
-DocumentPath=Cover Drawing.PCBDwf
+DocumentPath=GPIB-USBTMC Cover Drawing.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
